@@ -9,7 +9,6 @@
 ###
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no Instituto Federal de São Paulo (IFSP), apaixonada por tecnologia e sempre em busca de novos aprendizados. Iniciei minha jornada no desenvolvimento web pelo front-end, utilizando HTML, CSS e JavaScript, mas foi no back-end que realmente me encontrei. Atualmente, dedico meus estudos a essa área, explorando ferramentas e tecnologias para criar soluções robustas e eficientes.<br><br>Trabalho com Node.js, Java, MongoDB e SQL, sempre buscando aprimorar minhas habilidades e acompanhar as melhores práticas do mercado.</p>
-
 ###
 
 <div align="center">
